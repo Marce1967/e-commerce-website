@@ -1,2 +1,2 @@
-# e-commerce-website
+# agile-final-project
 Coursera Exercise Honors 
